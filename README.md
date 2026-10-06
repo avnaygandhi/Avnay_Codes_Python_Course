@@ -19,6 +19,6 @@ Whether you're starting from scratch or mastering Object-Oriented Programming an
 ---
 
 ## 📺 Follow Along
-* **YouTube Channel:** [Avnay Codes](www.youtube.com/@AvnayCodes)
+* **YouTube Channel:** [Avnay Codes](https://www.youtube.com/channel/UCRVMSWAS7tQi6gOtz6t5YHA)
 * **Weekly Uploads:** Every Sunday!
 * **Questions & Issues:** Feel free to open an issue or leave a comment on the videos.)
